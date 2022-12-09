@@ -10,7 +10,6 @@
 - 🔭 I’m Lead Software Engineer @ 10pearls LLC.
 - 🌱 I’m currently learning more about ReactJs.
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/@cinematicsbysabieh).
-- 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about AWS/Nodejs/PHP Related Stuff
 - 📫 How to reach me: Check social links below.
 
@@ -28,11 +27,6 @@
 
 ## 🎵 Music apps I use
 <img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
-
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=sabiehahmed10p&theme=minimal"/>
-</p>
 
 ## 💳 Github Profile Summary Card
 <p align="center">
