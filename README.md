@@ -10,8 +10,7 @@
 
 # 💫 About Me :
 - 🔭 I’m Lead Software Engineer @ 10pearls LLC.
-- 🌱 I’m currently learning more about ReactJs.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/@cinematicsbysabieh).
+- 🌱 I’m currently learning more about NestJs/NextJs.
 - 💬 Ask me about AWS/Nodejs/PHP Related Stuff
 - 📫 How to reach me: Check social links below.
 
