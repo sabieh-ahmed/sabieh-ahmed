@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 # 💫 About Me :
-- 🔭 I’m Lead Software Engineer @ 10pearls.
+- 🔭 I’m Frontend Engineer @ Talon.One
 - 🌱 I’m currently learning more about NestJs/NextJs.
 - 💬 Ask me about AWS/Nodejs/PHP Related Stuff
 - 📫 How to reach me: Check social links below.
