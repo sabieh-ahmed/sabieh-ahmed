@@ -1,17 +1,17 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/81bb4b165684019.640b6038d133e.gif)](https://www.youtube.com/@cinematicsbysabieh)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif)](https://www.youtube.com/@cinematicsbysabieh)
 
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Sabieh Ahmed</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabiehahmed10&label=Views&color=blue&style=plastic&style=for-the-badge" alt="sabieh ahmed" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabiehahme&label=Views&color=blue&style=plastic&style=for-the-badge" alt="sabieh ahmed" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 # 💫 About Me :
-- 🔭 I’m Frontend Engineer @ Talon.One
-- 🌱 I’m currently learning more about NestJs/NextJs.
-- 💬 Ask me about AWS/Nodejs/PHP Related Stuff
+- 🔭 I’m Lead Software Engineer @ Talon.One GMBH
+- 🌱 I’m currently learning more about Go and IAC.
+- 💬 Ask me about AWS/NodeJs/React Related Stuff
 - 📫 How to reach me: Check social links below.
 
 ## 🌐 Socials
@@ -28,18 +28,17 @@
 
 ## 💳 Github Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabiehahmed10p&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabieh-ahmed&theme=vue"/>
 </p>
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sabiehahmed10p&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabiehahmed10p&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sabieh-ahmed&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabieh-ahmed&theme=vue" />
 </p>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sabiehahmed10p&icon=0&color=1)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=sabieh-ahmedp&icon=0&color=1)](https://visitcount.itsvg.in)
